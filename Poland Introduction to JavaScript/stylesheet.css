@@ -1,0 +1,25 @@
+body {
+ text-align: center;
+  background-color: black;
+  font-size: 15px;
+  text-decoration: none;
+     color: purple;
+}
+div {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 23px;
+    color: wheat;
+}
+h1 {
+  text-align: center;
+    font-family: Verdana;
+    font-size: 50px;
+    color: wheat;
+}  
+input type {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 50px;
+    color: wheat;
+}
